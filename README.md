@@ -1,5 +1,6 @@
 # Password Generator
-:lock: Password generator built with React and SemanticUI
+:lock: Gerador de senhas construído em React e SemanticUI com Docker
+:lock: Password generator built in React and SemanticUI with Docker
 
 ### [Live Demo](https://password-generator-react.netlify.com/)
 

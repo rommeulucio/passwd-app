@@ -3,8 +3,6 @@
 
 :lock: Password generator built in React and SemanticUI with Docker
 
-### [Live Demo](https://password-generator-react.netlify.com/)
-
 ## Running Locally
 
 ```sh
@@ -13,4 +11,4 @@ npm start
 ```
 
 Runs the app in development mode.<br>
-Open [http://localhost:8000](http://localhost:8000) to view it in the browser.
+Open [http://172.16.209.242:8000] view it in the browser.
